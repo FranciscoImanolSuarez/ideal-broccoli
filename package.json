@@ -1,5 +1,5 @@
 {
-  "name": "random-msj",
+  "name": "ideal-broccoli",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -9,7 +9,7 @@
   "author": "Francisco Imanol Suarez <imanolsuarez98@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-messages": "./bin/global.js"
+    "ideal-broccoli": "./bin/global.js"
   },
   "preferGlobal": true
 }
