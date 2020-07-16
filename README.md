@@ -19,3 +19,6 @@ If someone wants to add or improve something, I invite you to collaborate direct
 
 # License
 ideal-broccoli is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+
+[Project created in the course of NPM and Management of Dependencies of Platzi](https://platzi.com/clases/npm/)
